@@ -1,0 +1,20 @@
+{
+  "name": "mymodule/image",
+  "description": "A simple image module for Magento 2",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": "MIT",
+  "require": {
+    "php": "^7.4",
+    "magento/framework": "^2.4.2",
+    "magento/module-image": "^2.4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mymodule\\Image\\": "src/"
+    }
+  },
+  "extra": {
+    "magento-module-source": "src/"
+  }
+}
