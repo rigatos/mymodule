@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "require": {
-    "php": "^7.4",
+    "php": "^8.1.21",
     "magento/framework": "^2.4.2",
     "magento/module-image": "^2.4.2"
   },
